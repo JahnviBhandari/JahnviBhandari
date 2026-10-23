@@ -97,21 +97,13 @@ An 8085-related project maintained in a C++ repository.
 </td>
 <td width="50%" valign="top">
 
-### 📄 ML-Powered Resume Analyzer
 
-A machine learning project focused on resume analysis and classification.
-
-**Stack:** `Python` `Jupyter Notebook` `NLP`
-
-[![GitHub](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JahnviBhandari/ML-powered-Resume-Analyzer)
-
-</td>
 </tr>
 </table>
 
 ---
 
-## 🤖 AI Projects
+## 🤖 AI/ML Projects
 
 <table>
 <tr>
@@ -138,19 +130,7 @@ A machine learning project focused on sentiment analysis of Twitter text.
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
 
-### 📊 Resume Classification
-
-An NLP workflow for processing resume text, extracting TF-IDF features, training a classifier, and evaluating predictions.
-
-**Stack:** `Python` `TF-IDF` `Random Forest`
-
-[![GitHub](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JahnviBhandari/ML-powered-Resume-Analyzer)
-
-</td>
-</tr>
 </table>
 
 ---
