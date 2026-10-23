@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Hi 👋, I'm Jahnvi
+# Hi, I'm Jahnvi
 
 ### Computer Science Engineering Student
 
